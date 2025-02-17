@@ -1,0 +1,76 @@
+:root{
+    --Yellow: hsl(47, 88%, 63%);
+    --White: hsl(0, 0%, 100%);
+    --Gray500: hsl(0, 0%, 42%);
+    --Gray950: hsl(0, 0%, 7%);
+    --LightFont:500;
+    --BoldFont:800;
+    --FontSize:16px;
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+}
+body{
+    background-color: var(--Yellow);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+main{
+    width:350px;
+    height:500px;
+    background-color: var(--White);
+    border-radius: 20px;
+    padding:20px;
+    box-shadow: rgba(0, 0, 0, 1) 10px 10px ;
+    font-family: "Figtree", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+.imgContainer img{
+    width:310px;
+    border-radius: 20px;
+}
+.texts{
+    margin-top:10px;
+}
+.texts span{
+    background-color: var(--Yellow);
+    padding:10px;
+    font-weight: var(--BoldFont);
+    border-radius: 5px;
+}
+.texts p{
+    margin-top:20px;
+    font-weight: var(--LightFont);
+    color: var(--Gray950);
+}
+.texts h1{
+    font-size: 26px;
+    font-weight: var(--BoldFont);
+    margin-top:15px;
+}
+.texts h6{
+    font-size: var(--FontSize);
+    color: var(--Gray500);
+    font-weight: var(--LightFont);
+    line-height: 23px;
+}
+.author{
+    display: flex;
+    align-items: center;
+    margin-top:15px;
+}
+.author h5{
+    font-size: var(--FontSize);
+    margin-left:10px;
+    font-weight: var(--BoldFont);
+}
+.author img{
+    width:30px;
+}
