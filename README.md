@@ -33,7 +33,7 @@ Here is the screenshot of the mobile design of this project
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Click here to see the website](https://blog-card-one-ochre.vercel.app)
 
 ## My process
 
