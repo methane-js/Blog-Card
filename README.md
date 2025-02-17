@@ -32,7 +32,7 @@ Here is the screenshot of the mobile design of this project
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsize-blog-card-using-css-FIILU3Y1Sk)
 - Live Site URL: [Click here to see the website](https://blog-card-one-ochre.vercel.app)
 
 ## My process
